@@ -69,22 +69,9 @@ Applies entropy compression to approach the theoretical minimum number of bits.
 Open in browser:
 
 ```
-https://hari235676-del.github.io/HADC/
-```
+https://hari235676-del.github.io/HADC/index.html
 
-### Option 2: Run Locally
-
-1. Download or clone the repository
-2. Open:
-
-```
-index.html
-```
-
-in any web browser
-
----
-
+--
 ## Project Structure
 
 ```
