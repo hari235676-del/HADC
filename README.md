@@ -119,7 +119,7 @@ Greedy selection prioritizes locally optimal patterns with high density, often l
 
 ---
 
-## Author
+## Authors
 
 Jennica Hanlynn Suhan
 
